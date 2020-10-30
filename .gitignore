@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+.yo-rc.json
+dist
+node_modules
+nmp-debug.log
